@@ -1,2 +1,2 @@
 # banco-otimizado
- sistema bancario otimizado do bootcamp NTT Data
+ Sistema bancário feito em Python e otimizado
